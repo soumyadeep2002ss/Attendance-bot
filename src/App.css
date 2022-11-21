@@ -7,6 +7,21 @@
   pointer-events: none;
 }
 
+body{
+  background: url(./Image\ 180.png) no-repeat ;
+}
+
+h1{
+  color: white;
+  font-size: 100px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  margin-top: 40vh;
+  margin-bottom: 0px;
+  text-align: center;
+  justify-content: center;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
